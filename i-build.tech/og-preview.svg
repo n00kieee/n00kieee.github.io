@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0A0E14"/>
+  <path d="M0 0h1200v630H0z" fill="url(#g)"/>
+  <g opacity=".18">
+    <path d="M0 105h1200M0 210h1200M0 315h1200M0 420h1200M0 525h1200M150 0v630M300 0v630M450 0v630M600 0v630M750 0v630M900 0v630M1050 0v630" stroke="#00E5FF"/>
+  </g>
+  <circle cx="900" cy="210" r="170" fill="#00E5FF" opacity=".12"/>
+  <circle cx="1030" cy="470" r="130" fill="#FFA028" opacity=".13"/>
+  <rect x="70" y="76" width="1060" height="478" rx="22" fill="white" fill-opacity=".055" stroke="white" stroke-opacity=".14"/>
+  <text x="96" y="132" fill="#00E5FF" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700">INDUSTRIAL CONTROL ROOM</text>
+  <text x="96" y="250" fill="#EEF7FB" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="800">Интеллект-строй</text>
+  <text x="96" y="326" fill="#EEF7FB" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700">АСУ ТП · SCADA · ПЛК</text>
+  <text x="96" y="395" fill="#A9BBC5" font-family="Inter, Arial, sans-serif" font-size="30">Комплексные решения для промышленных предприятий</text>
+  <rect x="96" y="454" width="188" height="58" rx="10" fill="#FFA028"/>
+  <text x="124" y="492" fill="#140D03" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">300+ проектов</text>
+  <path d="M706 378c70-112 145-169 236-169 71 0 122 36 161 90" stroke="#00E5FF" stroke-width="8" stroke-linecap="round" stroke-dasharray="18 20"/>
+  <rect x="672" y="392" width="142" height="92" rx="16" fill="#101923" stroke="#00E5FF" stroke-opacity=".42"/>
+  <rect x="854" y="314" width="182" height="120" rx="16" fill="#101923" stroke="white" stroke-opacity=".18"/>
+  <circle cx="746" cy="438" r="13" fill="#58FF9A"/>
+  <circle cx="946" cy="374" r="15" fill="#FFA028"/>
+  <defs>
+    <radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(244 103) rotate(41) scale(864 790)">
+      <stop stop-color="#00E5FF" stop-opacity=".18"/>
+      <stop offset=".58" stop-color="#0A0E14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
